@@ -1,0 +1,1526 @@
+fileFormatVersion: 2
+guid: b2daa8fab0f23154b997e5fbb5c3860e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8605479602969983287
+    second: Decorations (32x32)_0
+  - first:
+      213: 4600129511770090565
+    second: Decorations (32x32)_1
+  - first:
+      213: -399538571583186172
+    second: Decorations (32x32)_2
+  - first:
+      213: 3406356269320503256
+    second: Decorations (32x32)_3
+  - first:
+      213: -1075017349056126811
+    second: Decorations (32x32)_4
+  - first:
+      213: -8255700023269317997
+    second: Decorations (32x32)_5
+  - first:
+      213: 6294808281560137798
+    second: Decorations (32x32)_6
+  - first:
+      213: 6989189372938095363
+    second: Decorations (32x32)_7
+  - first:
+      213: -59366793427181878
+    second: Decorations (32x32)_8
+  - first:
+      213: 144703468013308536
+    second: Decorations (32x32)_9
+  - first:
+      213: 7417954762047746310
+    second: Decorations (32x32)_10
+  - first:
+      213: -328086744496294525
+    second: Decorations (32x32)_11
+  - first:
+      213: -7087685091449271119
+    second: Decorations (32x32)_12
+  - first:
+      213: -5039852512312098757
+    second: Decorations (32x32)_13
+  - first:
+      213: 3018965250298252140
+    second: Decorations (32x32)_14
+  - first:
+      213: -4111354732051323565
+    second: Decorations (32x32)_15
+  - first:
+      213: -218676679752899399
+    second: Decorations (32x32)_16
+  - first:
+      213: 810535612993806456
+    second: Decorations (32x32)_17
+  - first:
+      213: -2037447976504338380
+    second: Decorations (32x32)_18
+  - first:
+      213: -4128507501379397986
+    second: Decorations (32x32)_19
+  - first:
+      213: 8711389345169685912
+    second: Decorations (32x32)_20
+  - first:
+      213: -8504409732566498597
+    second: Decorations (32x32)_21
+  - first:
+      213: 75584612711069827
+    second: Decorations (32x32)_22
+  - first:
+      213: 1702605265836653642
+    second: Decorations (32x32)_23
+  - first:
+      213: -590956465601307602
+    second: Decorations (32x32)_24
+  - first:
+      213: -9041326403452093266
+    second: Decorations (32x32)_25
+  - first:
+      213: -7051370726068090024
+    second: Decorations (32x32)_26
+  - first:
+      213: -8828563321661511307
+    second: Decorations (32x32)_27
+  - first:
+      213: -1206073384291621882
+    second: Decorations (32x32)_28
+  - first:
+      213: -2247497429198914217
+    second: Decorations (32x32)_29
+  - first:
+      213: 6204055206609769534
+    second: Decorations (32x32)_30
+  - first:
+      213: -2962463257562327868
+    second: Decorations (32x32)_31
+  - first:
+      213: 4771521419484528942
+    second: Decorations (32x32)_32
+  - first:
+      213: 6146973244935425242
+    second: Decorations (32x32)_33
+  - first:
+      213: 5942650633480549326
+    second: Decorations (32x32)_34
+  - first:
+      213: 5297580719288271398
+    second: Decorations (32x32)_35
+  - first:
+      213: 8932177805170790632
+    second: Decorations (32x32)_36
+  - first:
+      213: 5884701705098335212
+    second: Decorations (32x32)_37
+  - first:
+      213: -5858912930053362829
+    second: Decorations (32x32)_38
+  - first:
+      213: -6228088867681291080
+    second: Decorations (32x32)_39
+  - first:
+      213: -5475805834383801849
+    second: Decorations (32x32)_40
+  - first:
+      213: 2569634523169520560
+    second: Decorations (32x32)_41
+  - first:
+      213: -1097297169490321819
+    second: Decorations (32x32)_42
+  - first:
+      213: 7062471983302358591
+    second: Decorations (32x32)_43
+  - first:
+      213: 893111743986811378
+    second: Decorations (32x32)_44
+  - first:
+      213: -4755858159198092795
+    second: Decorations (32x32)_45
+  - first:
+      213: -8451558203878654265
+    second: Decorations (32x32)_46
+  - first:
+      213: -7770437133873842042
+    second: Decorations (32x32)_47
+  - first:
+      213: 4512042219718214219
+    second: Decorations (32x32)_48
+  - first:
+      213: -2260563174448971389
+    second: Decorations (32x32)_49
+  - first:
+      213: -6760993761988904821
+    second: Decorations (32x32)_50
+  - first:
+      213: 7432887673599409839
+    second: Decorations (32x32)_51
+  - first:
+      213: 8690958858785016864
+    second: Decorations (32x32)_52
+  - first:
+      213: 194811246078593878
+    second: Decorations (32x32)_53
+  - first:
+      213: -418032281808826812
+    second: Decorations (32x32)_54
+  - first:
+      213: -2669053651418029321
+    second: Decorations (32x32)_55
+  - first:
+      213: -8795385908153204804
+    second: Decorations (32x32)_56
+  - first:
+      213: 4904293434204866312
+    second: Decorations (32x32)_57
+  - first:
+      213: -6049892296504484811
+    second: Decorations (32x32)_58
+  - first:
+      213: -8449834205738035438
+    second: Decorations (32x32)_59
+  - first:
+      213: 4527835129391164360
+    second: Decorations (32x32)_60
+  - first:
+      213: -3496796281827847417
+    second: Decorations (32x32)_61
+  - first:
+      213: -8962108274268201344
+    second: Decorations (32x32)_62
+  - first:
+      213: -8465613908132435031
+    second: Decorations (32x32)_63
+  - first:
+      213: 8921355105529010197
+    second: Decorations (32x32)_64
+  - first:
+      213: -4866087940980538568
+    second: Decorations (32x32)_65
+  - first:
+      213: -8736635018734786886
+    second: Decorations (32x32)_66
+  - first:
+      213: 8062603377343755123
+    second: Decorations (32x32)_67
+  - first:
+      213: -7913335883169425008
+    second: Decorations (32x32)_68
+  - first:
+      213: -341035856300409038
+    second: Decorations (32x32)_69
+  - first:
+      213: -2832812015639804669
+    second: Decorations (32x32)_70
+  - first:
+      213: -5780625643066199273
+    second: Decorations (32x32)_71
+  - first:
+      213: -2263193789129997940
+    second: Decorations (32x32)_72
+  - first:
+      213: -5652040314052768587
+    second: Decorations (32x32)_73
+  - first:
+      213: -3360483113112446351
+    second: Decorations (32x32)_74
+  - first:
+      213: -8361248748834305591
+    second: Decorations (32x32)_75
+  - first:
+      213: 4875492963767196696
+    second: Decorations (32x32)_76
+  - first:
+      213: -8374742563080004300
+    second: Decorations (32x32)_77
+  - first:
+      213: 7021922472782755369
+    second: Decorations (32x32)_78
+  - first:
+      213: -7859423341649003278
+    second: Decorations (32x32)_79
+  - first:
+      213: -5731647004549950595
+    second: Decorations (32x32)_80
+  - first:
+      213: 649405112831136659
+    second: Decorations (32x32)_81
+  - first:
+      213: -3799465086509125757
+    second: Decorations (32x32)_82
+  - first:
+      213: 3762709658627314926
+    second: Decorations (32x32)_83
+  - first:
+      213: 8156780006528662009
+    second: Decorations (32x32)_84
+  - first:
+      213: 4717823408900821342
+    second: Decorations (32x32)_85
+  - first:
+      213: -4664455505301176065
+    second: Decorations (32x32)_86
+  - first:
+      213: 378137629724468362
+    second: Decorations (32x32)_87
+  - first:
+      213: 4298902666357214862
+    second: Decorations (32x32)_88
+  - first:
+      213: -3947667068262507967
+    second: Decorations (32x32)_89
+  - first:
+      213: 3636022392404480912
+    second: Decorations (32x32)_90
+  - first:
+      213: -2740784273884693091
+    second: Decorations (32x32)_91
+  - first:
+      213: -2075577417089744379
+    second: Decorations (32x32)_92
+  - first:
+      213: -5845277764596728494
+    second: Decorations (32x32)_93
+  - first:
+      213: -4598003499583276472
+    second: Decorations (32x32)_94
+  - first:
+      213: -1825397676395084068
+    second: Decorations (32x32)_95
+  - first:
+      213: -2943467280090093251
+    second: Decorations (32x32)_96
+  - first:
+      213: -6827521675301852063
+    second: Decorations (32x32)_97
+  - first:
+      213: -53401338883484308
+    second: Decorations (32x32)_98
+  - first:
+      213: 5295275667339019421
+    second: Decorations (32x32)_99
+  - first:
+      213: -2389318679686758177
+    second: Decorations (32x32)_100
+  - first:
+      213: -8274058146925494145
+    second: Decorations (32x32)_101
+  - first:
+      213: 8395892832054785310
+    second: Decorations (32x32)_102
+  - first:
+      213: -6340204232372827717
+    second: Decorations (32x32)_103
+  - first:
+      213: 7004527297523157728
+    second: Decorations (32x32)_104
+  - first:
+      213: 7745119385755906601
+    second: Decorations (32x32)_105
+  - first:
+      213: 880852582418522925
+    second: Decorations (32x32)_106
+  - first:
+      213: -8429034689611533322
+    second: Decorations (32x32)_107
+  - first:
+      213: -7805372825797242461
+    second: Decorations (32x32)_108
+  - first:
+      213: 5864902755090222351
+    second: Decorations (32x32)_109
+  - first:
+      213: -4064867115940134095
+    second: Decorations (32x32)_110
+  - first:
+      213: 5619836435654070784
+    second: Decorations (32x32)_111
+  - first:
+      213: 1496078092832389890
+    second: Decorations (32x32)_112
+  - first:
+      213: 7094152571334514071
+    second: Decorations (32x32)_113
+  - first:
+      213: 334634048312485041
+    second: Decorations (32x32)_114
+  - first:
+      213: -8039072463800220542
+    second: Decorations (32x32)_115
+  - first:
+      213: -6441459833528261896
+    second: Decorations (32x32)_116
+  - first:
+      213: -8622654329882583098
+    second: Decorations (32x32)_117
+  - first:
+      213: 7389877402910767475
+    second: Decorations (32x32)_118
+  - first:
+      213: 3602636462700447153
+    second: Decorations (32x32)_119
+  - first:
+      213: -6101964951666729338
+    second: Decorations (32x32)_120
+  - first:
+      213: -2344293864066039718
+    second: Decorations (32x32)_121
+  - first:
+      213: 619121343108134850
+    second: Decorations (32x32)_122
+  - first:
+      213: 6215866311759275440
+    second: Decorations (32x32)_123
+  - first:
+      213: -7561339425587984959
+    second: Decorations (32x32)_124
+  - first:
+      213: 5807034992930624147
+    second: Decorations (32x32)_125
+  - first:
+      213: 661903263629885700
+    second: Decorations (32x32)_126
+  - first:
+      213: -2630593131431358882
+    second: Decorations (32x32)_127
+  - first:
+      213: -8873039001755768588
+    second: Decorations (32x32)_128
+  - first:
+      213: -6378258462919006500
+    second: Decorations (32x32)_129
+  - first:
+      213: -1863772510177148323
+    second: Decorations (32x32)_130
+  - first:
+      213: -3449016946833340936
+    second: Decorations (32x32)_131
+  - first:
+      213: 1164285612636746813
+    second: Decorations (32x32)_132
+  - first:
+      213: -2651547992006526684
+    second: Decorations (32x32)_133
+  - first:
+      213: -2088618052545234714
+    second: Decorations (32x32)_134
+  - first:
+      213: 7784926100965528669
+    second: Decorations (32x32)_135
+  - first:
+      213: -5055980963094839578
+    second: Decorations (32x32)_136
+  - first:
+      213: -3093343968477237251
+    second: Decorations (32x32)_137
+  - first:
+      213: 6344499357453125681
+    second: Decorations (32x32)_138
+  - first:
+      213: -3982272119076496097
+    second: Decorations (32x32)_139
+  - first:
+      213: 1134595743083656112
+    second: Decorations (32x32)_140
+  - first:
+      213: 4129357444273556845
+    second: Decorations (32x32)_141
+  - first:
+      213: 4071298744753713814
+    second: Decorations (32x32)_142
+  - first:
+      213: -7340215519744248934
+    second: Decorations (32x32)_143
+  - first:
+      213: -7806788146759122823
+    second: Decorations (32x32)_144
+  - first:
+      213: 4939178228930604344
+    second: Decorations (32x32)_145
+  - first:
+      213: 1810212889031925206
+    second: Decorations (32x32)_146
+  - first:
+      213: -1417049182247522622
+    second: Decorations (32x32)_147
+  - first:
+      213: -4927812300189067800
+    second: Decorations (32x32)_148
+  - first:
+      213: -2961277363849740556
+    second: Decorations (32x32)_149
+  - first:
+      213: -6868943975971309479
+    second: Decorations (32x32)_150
+  - first:
+      213: 5328749176824650346
+    second: Decorations (32x32)_151
+  - first:
+      213: -4882928513581741932
+    second: Decorations (32x32)_152
+  - first:
+      213: 6864090438904990699
+    second: Decorations (32x32)_153
+  - first:
+      213: -6456247398497501271
+    second: Decorations (32x32)_154
+  - first:
+      213: -8340960697309289005
+    second: Decorations (32x32)_155
+  - first:
+      213: 6507088159032752509
+    second: Decorations (32x32)_156
+  - first:
+      213: -7196546688281479089
+    second: Decorations (32x32)_157
+  - first:
+      213: -3072139587369632342
+    second: Decorations (32x32)_158
+  - first:
+      213: 752260952043212275
+    second: Decorations (32x32)_159
+  - first:
+      213: 5595262492857400966
+    second: Decorations (32x32)_160
+  - first:
+      213: -1410492052169662615
+    second: Decorations (32x32)_161
+  - first:
+      213: 2041056272571237474
+    second: Decorations (32x32)_162
+  - first:
+      213: -1478565455698129584
+    second: Decorations (32x32)_163
+  - first:
+      213: -3463243691088105758
+    second: Decorations (32x32)_164
+  - first:
+      213: -7758855464014161433
+    second: Decorations (32x32)_165
+  - first:
+      213: -1817093379666081274
+    second: Decorations (32x32)_166
+  - first:
+      213: 9172615646982420212
+    second: Decorations (32x32)_167
+  - first:
+      213: 4579341945181828056
+    second: Decorations (32x32)_168
+  - first:
+      213: -7165421879625705525
+    second: Decorations (32x32)_169
+  - first:
+      213: -442460961698461340
+    second: Decorations (32x32)_170
+  - first:
+      213: 3202805505329202117
+    second: Decorations (32x32)_171
+  - first:
+      213: 7279333095876335403
+    second: Decorations (32x32)_172
+  - first:
+      213: 7604430222964171293
+    second: Decorations (32x32)_173
+  - first:
+      213: -4198721443203495335
+    second: Decorations (32x32)_174
+  - first:
+      213: -3008229077182616896
+    second: Decorations (32x32)_175
+  - first:
+      213: -9028750888345897780
+    second: Decorations (32x32)_176
+  - first:
+      213: 6382842263600559042
+    second: Decorations (32x32)_177
+  - first:
+      213: -5835123662157737548
+    second: Decorations (32x32)_178
+  - first:
+      213: -400734928018097529
+    second: Decorations (32x32)_179
+  - first:
+      213: -8671518499898097737
+    second: Decorations (32x32)_180
+  - first:
+      213: 2046039713388269653
+    second: Decorations (32x32)_181
+  - first:
+      213: -6870257730701093003
+    second: Decorations (32x32)_182
+  - first:
+      213: -4339526455042951752
+    second: Decorations (32x32)_183
+  - first:
+      213: -8168077206846620262
+    second: Decorations (32x32)_184
+  - first:
+      213: -7957183849465202960
+    second: Decorations (32x32)_185
+  - first:
+      213: -3523024294896851948
+    second: Decorations (32x32)_186
+  - first:
+      213: 2651623966561682791
+    second: Decorations (32x32)_187
+  - first:
+      213: -4108403303777317493
+    second: Decorations (32x32)_188
+  - first:
+      213: 2689828335984454592
+    second: Decorations (32x32)_189
+  - first:
+      213: -2984345103801357231
+    second: Decorations (32x32)_190
+  - first:
+      213: 8774804131100739033
+    second: Decorations (32x32)_191
+  - first:
+      213: -2542296169614689186
+    second: Decorations (32x32)_192
+  - first:
+      213: -5155463622616802890
+    second: Decorations (32x32)_193
+  - first:
+      213: 7743494768965233466
+    second: Decorations (32x32)_194
+  - first:
+      213: 1228187144706437122
+    second: Decorations (32x32)_195
+  - first:
+      213: 8945688411732361866
+    second: Decorations (32x32)_196
+  - first:
+      213: -5033142402333248194
+    second: Decorations (32x32)_197
+  - first:
+      213: 6926003337139952450
+    second: Decorations (32x32)_198
+  - first:
+      213: -7507768574068046315
+    second: Decorations (32x32)_199
+  - first:
+      213: 3532743918202508001
+    second: Decorations (32x32)_200
+  - first:
+      213: 5497099595443607954
+    second: Decorations (32x32)_201
+  - first:
+      213: -8707183401515315900
+    second: Decorations (32x32)_202
+  - first:
+      213: 2121124397781162864
+    second: Decorations (32x32)_203
+  - first:
+      213: -3590099566756292329
+    second: Decorations (32x32)_204
+  - first:
+      213: 4126757252697178533
+    second: Decorations (32x32)_205
+  - first:
+      213: 7495132852562296185
+    second: Decorations (32x32)_206
+  - first:
+      213: -995107974573708407
+    second: Decorations (32x32)_207
+  - first:
+      213: 1451773876226653764
+    second: Decorations (32x32)_208
+  - first:
+      213: -2369723486845457535
+    second: Decorations (32x32)_209
+  - first:
+      213: -1356453049994330076
+    second: Decorations (32x32)_210
+  - first:
+      213: 3271451453775373275
+    second: Decorations (32x32)_211
+  - first:
+      213: 2029588193008945567
+    second: Decorations (32x32)_212
+  - first:
+      213: 8573803880942727318
+    second: Decorations (32x32)_213
+  - first:
+      213: 4281228050883668700
+    second: Decorations (32x32)_214
+  - first:
+      213: -2192061466682508985
+    second: Decorations (32x32)_215
+  - first:
+      213: -9196622442914665711
+    second: Decorations (32x32)_216
+  - first:
+      213: -3057852509253577153
+    second: Decorations (32x32)_217
+  - first:
+      213: -3048439449790305376
+    second: Decorations (32x32)_218
+  - first:
+      213: 929525574843530017
+    second: Decorations (32x32)_219
+  - first:
+      213: -5383174073715635441
+    second: Decorations (32x32)_220
+  - first:
+      213: -2373241016747984772
+    second: Decorations (32x32)_221
+  - first:
+      213: -7268181668981656439
+    second: Decorations (32x32)_222
+  - first:
+      213: -2468742358306785192
+    second: Decorations (32x32)_223
+  - first:
+      213: -8045961243229023009
+    second: Decorations (32x32)_224
+  - first:
+      213: 4135727882949465908
+    second: Decorations (32x32)_225
+  - first:
+      213: 7691439115755656618
+    second: Decorations (32x32)_226
+  - first:
+      213: -7331887010373383951
+    second: Decorations (32x32)_227
+  - first:
+      213: 9053731177822547828
+    second: Decorations (32x32)_228
+  - first:
+      213: 7300640350280640527
+    second: Decorations (32x32)_229
+  - first:
+      213: 8030474966102487282
+    second: Decorations (32x32)_230
+  - first:
+      213: 7170986454782948886
+    second: Decorations (32x32)_231
+  - first:
+      213: -7307519466867326547
+    second: Decorations (32x32)_232
+  - first:
+      213: 5748017038838767971
+    second: Decorations (32x32)_233
+  - first:
+      213: -6533738362187210392
+    second: Decorations (32x32)_234
+  - first:
+      213: -1983264250728011060
+    second: Decorations (32x32)_235
+  - first:
+      213: 7155092080239858777
+    second: Decorations (32x32)_236
+  - first:
+      213: 5161648373302075901
+    second: Decorations (32x32)_237
+  - first:
+      213: 6545408944323198377
+    second: Decorations (32x32)_238
+  - first:
+      213: 7070561123996567797
+    second: Decorations (32x32)_239
+  - first:
+      213: 8454136745608079495
+    second: Decorations (32x32)_240
+  - first:
+      213: -4798861968672306802
+    second: Decorations (32x32)_241
+  - first:
+      213: -1871548740454141484
+    second: Decorations (32x32)_242
+  - first:
+      213: -4757535730607783151
+    second: Decorations (32x32)_243
+  - first:
+      213: 6738553030225646675
+    second: Decorations (32x32)_244
+  - first:
+      213: 4571569744364795378
+    second: Decorations (32x32)_245
+  - first:
+      213: -4019378959659312630
+    second: Decorations (32x32)_246
+  - first:
+      213: 1672362434999864988
+    second: Decorations (32x32)_247
+  - first:
+      213: 2171085654132138939
+    second: Decorations (32x32)_248
+  - first:
+      213: -3469204735181485448
+    second: Decorations (32x32)_249
+  - first:
+      213: -92602814791061627
+    second: Decorations (32x32)_250
+  - first:
+      213: -1395946779461284557
+    second: Decorations (32x32)_251
+  - first:
+      213: -460244226293960048
+    second: Decorations (32x32)_252
+  - first:
+      213: 4230291672600954189
+    second: Decorations (32x32)_253
+  - first:
+      213: 738300540707224948
+    second: Decorations (32x32)_254
+  - first:
+      213: 2693728876845849288
+    second: Decorations (32x32)_255
+  - first:
+      213: 1013627390492087939
+    second: Decorations (32x32)_256
+  - first:
+      213: -4742434520006101084
+    second: Decorations (32x32)_257
+  - first:
+      213: 7326658599533643137
+    second: Decorations (32x32)_258
+  - first:
+      213: -8168185473698381551
+    second: Decorations (32x32)_259
+  - first:
+      213: -290112422442572733
+    second: Decorations (32x32)_260
+  - first:
+      213: 984998110626844303
+    second: Decorations (32x32)_261
+  - first:
+      213: -3444207771730120349
+    second: Decorations (32x32)_262
+  - first:
+      213: 1163288504938138471
+    second: Decorations (32x32)_263
+  - first:
+      213: 5055257884525911263
+    second: Decorations (32x32)_264
+  - first:
+      213: -1614714451807703584
+    second: Decorations (32x32)_265
+  - first:
+      213: 6975018724503113532
+    second: Decorations (32x32)_266
+  - first:
+      213: 8184127406101782529
+    second: Decorations (32x32)_267
+  - first:
+      213: 2406363396752962026
+    second: Decorations (32x32)_268
+  - first:
+      213: -6650529993023159559
+    second: Decorations (32x32)_269
+  - first:
+      213: -7537666527074832921
+    second: Decorations (32x32)_270
+  - first:
+      213: -29162536165729842
+    second: Decorations (32x32)_271
+  - first:
+      213: 8427762585736155030
+    second: Decorations (32x32)_272
+  - first:
+      213: -2077818296834028644
+    second: Decorations (32x32)_273
+  - first:
+      213: 9203663315766841565
+    second: Decorations (32x32)_274
+  - first:
+      213: 5613086605839288576
+    second: Decorations (32x32)_275
+  - first:
+      213: -5365099400235568516
+    second: Decorations (32x32)_276
+  - first:
+      213: 3988212416456263940
+    second: Decorations (32x32)_277
+  - first:
+      213: 5248951236091914993
+    second: Decorations (32x32)_278
+  - first:
+      213: 6390854880817895264
+    second: Decorations (32x32)_279
+  - first:
+      213: 1786009540622729913
+    second: Decorations (32x32)_280
+  - first:
+      213: -2050370590889718554
+    second: Decorations (32x32)_281
+  - first:
+      213: -2891439962632380648
+    second: Decorations (32x32)_282
+  - first:
+      213: -8846568823580742735
+    second: Decorations (32x32)_283
+  - first:
+      213: -8094805295808676532
+    second: Decorations (32x32)_284
+  - first:
+      213: -25152427632854595
+    second: Decorations (32x32)_285
+  - first:
+      213: 7021714131178679153
+    second: Decorations (32x32)_286
+  - first:
+      213: -96927644102703838
+    second: Decorations (32x32)_287
+  - first:
+      213: -1407381311107721626
+    second: Decorations (32x32)_288
+  - first:
+      213: -2645717929678286383
+    second: Decorations (32x32)_289
+  - first:
+      213: -839950798946173542
+    second: Decorations (32x32)_290
+  - first:
+      213: 7481800574934388961
+    second: Decorations (32x32)_291
+  - first:
+      213: 3178155988222611366
+    second: Decorations (32x32)_292
+  - first:
+      213: -3830670417138274924
+    second: Decorations (32x32)_293
+  - first:
+      213: -6260781913530967882
+    second: Decorations (32x32)_294
+  - first:
+      213: -3793268197514487071
+    second: Decorations (32x32)_295
+  - first:
+      213: 5947288669253103000
+    second: Decorations (32x32)_296
+  - first:
+      213: -5685401388558612124
+    second: Decorations (32x32)_297
+  - first:
+      213: -8084312260444640696
+    second: Decorations (32x32)_298
+  - first:
+      213: 1449076420190679494
+    second: Decorations (32x32)_299
+  - first:
+      213: -1629700384607961169
+    second: Decorations (32x32)_300
+  - first:
+      213: 4416753904097684533
+    second: Decorations (32x32)_301
+  - first:
+      213: 2098315978468759484
+    second: Decorations (32x32)_302
+  - first:
+      213: -8085164393523531275
+    second: Decorations (32x32)_303
+  - first:
+      213: -4602333095567821552
+    second: Decorations (32x32)_304
+  - first:
+      213: -7990032390849429329
+    second: Decorations (32x32)_305
+  - first:
+      213: 8048102804937656106
+    second: Decorations (32x32)_306
+  - first:
+      213: 1986960498361973982
+    second: Decorations (32x32)_307
+  - first:
+      213: -2693852224307731516
+    second: Decorations (32x32)_308
+  - first:
+      213: 5367771500491243800
+    second: Decorations (32x32)_309
+  - first:
+      213: -60808353831143936
+    second: Decorations (32x32)_310
+  - first:
+      213: 7441695743925790791
+    second: Decorations (32x32)_311
+  - first:
+      213: -1910199550758313381
+    second: Decorations (32x32)_312
+  - first:
+      213: 797977639517504410
+    second: Decorations (32x32)_313
+  - first:
+      213: 2871933460243886265
+    second: Decorations (32x32)_314
+  - first:
+      213: 1102941928165862151
+    second: Decorations (32x32)_315
+  - first:
+      213: -2978667551618853398
+    second: Decorations (32x32)_316
+  - first:
+      213: -3327276198607426526
+    second: Decorations (32x32)_317
+  - first:
+      213: -7307207993265204020
+    second: Decorations (32x32)_318
+  - first:
+      213: -164673026355737331
+    second: Decorations (32x32)_319
+  - first:
+      213: -6653512197387389859
+    second: Decorations (32x32)_320
+  - first:
+      213: 3514801288108626241
+    second: Decorations (32x32)_321
+  - first:
+      213: -1781277162537262306
+    second: Decorations (32x32)_322
+  - first:
+      213: -5168459578906127820
+    second: Decorations (32x32)_323
+  - first:
+      213: 5706220822096042760
+    second: Decorations (32x32)_324
+  - first:
+      213: 4123784742197670195
+    second: Decorations (32x32)_325
+  - first:
+      213: -7455515177237290305
+    second: Decorations (32x32)_326
+  - first:
+      213: -6105429054212492651
+    second: Decorations (32x32)_327
+  - first:
+      213: -6841958297947576771
+    second: Decorations (32x32)_328
+  - first:
+      213: 8890442117596872186
+    second: Decorations (32x32)_329
+  - first:
+      213: -2334052406504568132
+    second: Decorations (32x32)_330
+  - first:
+      213: 8940630713801269350
+    second: Decorations (32x32)_331
+  - first:
+      213: -4357319444591534190
+    second: Decorations (32x32)_332
+  - first:
+      213: 7583816700056859285
+    second: Decorations (32x32)_333
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Decorations (32x32)_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6ca1715e1339880800000000000000
+      internalID: -8605479602969983287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce8dd1b61f6df30800000000000000
+      internalID: 4600129511770090565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b97b639cd847af0800000000000000
+      internalID: -399538571583186172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff543bafec54f20800000000000000
+      internalID: 3406356269320503256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a02eaa65c411f0800000000000000
+      internalID: -1075017349056126811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39229d4c19cdd6d80800000000000000
+      internalID: -8255700023269317997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640449fd7c6ab5750800000000000000
+      internalID: 6294808281560137798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b09e154b69ef060800000000000000
+      internalID: 6989189372938095363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace915647361d2ff0800000000000000
+      internalID: -59366793427181878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a43b89907120200800000000000000
+      internalID: 144703468013308536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601f5c7dd8ed1f660800000000000000
+      internalID: 7417954762047746310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385b8ca18d6627bf0800000000000000
+      internalID: -328086744496294525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc855426fb73ad90800000000000000
+      internalID: -7087685091449271119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b300743a7d8de0ab0800000000000000
+      internalID: -5039852512312098757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b864566e485e920800000000000000
+      internalID: 3018965250298252140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a57277a881f6c0800000000000000
+      internalID: -4111354732051323565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4aaa6e7ba17fcf0800000000000000
+      internalID: -218676679752899399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870ac4a78d99f3b00800000000000000
+      internalID: 810535612993806456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438de183cd789b3e0800000000000000
+      internalID: -2037447976504338380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorations (32x32)_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96debf1d4894b6c0800000000000000
+      internalID: -4128507501379397986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
